@@ -1,5 +1,7 @@
 # Useful links
 
+This repository is a collection of useful links for development, UX/UI design and more.
+
 ### Colors
 - [Coolors](https://coolors.co/): Generate color palettes, color picker, etc.
 - [Colormind](http://colormind.io/): Generate color palettes, color picker, etc.
