@@ -11,3 +11,9 @@ This repository is a collection of useful links for development, UX/UI design an
 - [Simple Icons](https://simpleicons.org/): **Free** SVG Icons for popular brands
 - [Material Icons](https://material.io/resources/icons/): **Free** Material Icons
 - [Icons8](https://icons8.de/icons): **Partly Free** Icons
+
+### Icons by theme
+#### Monochrome Icons
+Monochrome icons
+
+- [Chemistry monochrome Icon Pack](https://www.flaticon.com/packs/chemistry-monochrome)
