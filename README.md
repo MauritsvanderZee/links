@@ -3,6 +3,7 @@
 This repository is a collection of useful links for development, UX/UI design and more.
 
 ### Colors
+- [Colorbook.io](www.colorbook.io): Convert colors (RGB, HEX; CMYK, etc.), find similiar colors, adjust colors, generate color palettes
 - [Coolors](https://coolors.co/): Generate color palettes, color picker, etc.
 - [Colormind](http://colormind.io/): Generate color palettes, color picker, etc.
 
