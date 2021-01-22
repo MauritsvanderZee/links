@@ -18,3 +18,7 @@ This repository is a collection of useful links for development, UX/UI design an
 Monochrome icons
 
 - [Chemistry monochrome Icon Pack](https://www.flaticon.com/packs/chemistry-monochrome)
+
+### UI Components
+#### Angular
+- [Truly UI](https://truly-ui.com/)
